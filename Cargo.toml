@@ -1,0 +1,9 @@
+[package]
+name = "doublets-vs-maps"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+platform-data = "0.1.0-aplha.0"
+platform-mem = "0.1.0-aplha.5"
+doublets = "0.1.0-alpha.15"
