@@ -19,4 +19,4 @@ jobs:
     - name: Setup nightly
       run: rustup default nightly
     - name: Bench
-      run: cargo bench
+      run: cargo run --release
